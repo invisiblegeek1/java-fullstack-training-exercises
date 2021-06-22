@@ -1,5 +1,5 @@
 package com.example.os;
 
 public interface RamAllocator {
-    void ramManager(String appName,int ramCount);
+    void ramManager(String appName, int ramCount);
 }
